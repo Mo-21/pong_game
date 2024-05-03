@@ -1,7 +1,6 @@
 # Pong Game
 
-## Overview
-This is a simple implementation of a Ping Pong game using Python and the Turtle module. The game provides a basic interface where two players can control paddles to bounce a ball back and forth. The objective is to prevent the ball from hitting the walls behind the paddles.
+This is a simple implementation of a Ping Pong game using Python and the Turtle module. The game provides a basic interface where two players can control paddles to bounce a ball back and forth. The objective is to prevent the ball from hitting the walls behind the paddles. It implements OOP with class inheritance to ensure encapsulation and reuse.
 
 ## Gameplay
 - Player 1 controls the left paddle using the 'W' and 'S' keys. 
